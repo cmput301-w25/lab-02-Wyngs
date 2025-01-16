@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Harshit Kumar Saini`
+- **CCID:** `hsaini3`
 
 ## References and Resources
 
