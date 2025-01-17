@@ -8,7 +8,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Android Docs to understand toast, keyboard input and onClickListener URL: https://developer.android.com/reference/
 
 ## Verbal Collaboration
 
